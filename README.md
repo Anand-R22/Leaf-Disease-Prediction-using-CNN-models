@@ -1,1 +1,1 @@
-gjfkjgkjvvjhhjv
+Built a Convolutional Neural Network model for detecting and classifying plant leaf diseases. Trained the model on image datasets with data augmentation techniques, achieving high accuracy in predicting different disease types.
